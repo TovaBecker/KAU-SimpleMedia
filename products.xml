@@ -1,0 +1,93 @@
+<products>
+  <product>
+    <id>1</id>
+    <price>449</price>
+    <count>8</count>
+    <name>Commentarii de Bello Gallico et Civili</name>
+    <description>Type: Bok, Author: Gaius Julius Caesar, Genre: Historia, Format: Inbunden, Language: Latin, Platform: No platform, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>5</id>
+    <price>49</price>
+    <count>5</count>
+    <name>House of Leaves</name>
+    <description>Type: Bok, Author: Mark Z. Danielewski, Genre: Skräck &amp; Romantik, Format: No format, Language: No language, Platform: No platform, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>6</id>
+    <price>599</price>
+    <count>9</count>
+    <name>Persona 5 Royal</name>
+    <description>Type: Spel, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: Playstation 4, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>7</id>
+    <price>499</price>
+    <count>30</count>
+    <name>Microsoft Flight Simulator</name>
+    <description>Type: Spel, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: PC, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>8</id>
+    <price>199</price>
+    <count>99594</count>
+    <name>Katana Zero</name>
+    <description>Type: Spel, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: PC&amp;Switch, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>9</id>
+    <price>99</price>
+    <count>5</count>
+    <name>Duke Nukem 3D</name>
+    <description>Type: Spel, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: PC, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>10</id>
+    <price>99</price>
+    <count>15</count>
+    <name>Nyckeln till frihet</name>
+    <description>Type: DVD, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: No platform, Playtime: 142 </description>
+  </product>
+  <product>
+    <id>11</id>
+    <price>99</price>
+    <count>51</count>
+    <name>Gudfadern</name>
+    <description>Type: DVD, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: No platform, Playtime: 152 </description>
+  </product>
+  <product>
+    <id>12</id>
+    <price>149</price>
+    <count>15</count>
+    <name>Sagan om ringen: konungens återkomst</name>
+    <description>Type: DVD, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: No platform, Playtime: 154 </description>
+  </product>
+  <product>
+    <id>13</id>
+    <price>99</price>
+    <count>13</count>
+    <name>Pulp fiction</name>
+    <description>Type: DVD, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: No platform, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>14</id>
+    <price>149</price>
+    <count>9</count>
+    <name>Schindlers list</name>
+    <description>Type: DVD, Author: No author, Genre: No genre, Format: No format, Language: No language, Platform: No platform, Playtime: 195 </description>
+  </product>
+  <product>
+    <id>2</id>
+    <price>79</price>
+    <count>7</count>
+    <name>Great Gatsby</name>
+    <description>Type: Bok, Author: F. Scott Fitzgerald, Genre: Noir, Format: e-bok, Language: No language, Platform: No platform, Playtime: 0 </description>
+  </product>
+  <product>
+    <id>3</id>
+    <price>79</price>
+    <count>22</count>
+    <name>Art of testning</name>
+    <description>Type: Bok, Author: F. Scott Fitzgerald, Genre: Noir, Format: e-bok, Language: No language, Platform: No platform, Playtime: 0 </description>
+  </product>
+</products>
